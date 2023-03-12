@@ -1,0 +1,25 @@
+.container {
+  margin-top: 25px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.description {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  width: 500px;
+  margin-bottom: -20px;
+
+  @media (max-width: 768px) {
+    width: 300px;
+  }
+
+  p {
+    font-weight: 400;
+    font-size: 110%;
+  }
+}

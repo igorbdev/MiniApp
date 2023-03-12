@@ -1,0 +1,79 @@
+@import "../../theme/Theme.style.scss";
+
+.InitialMenu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.containerMenuInitialHeader {
+    background: linear-gradient(248.25deg, $primary-gradient-0 -14.06%, $primary-gradient-1 99.58%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 140px;
+}
+
+.containerInfosMenuInitial {
+    display: flex;
+}
+
+.nameProfile {
+    margin: 0 20px;
+}
+
+.nameProfile h1 {
+    color: #fff;
+    font-size: 18px;
+    margin: 0;
+}
+
+.nameProfile p {
+    color: #fff;
+    font-size: 14px;
+    margin: 0;
+}
+
+.ExitProfile {
+    margin-left: 20px;
+}
+
+.containerButtonMenuInicial {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 13px;
+    margin-top: -13px;
+    padding-top: 40px;
+}
+
+.buttonMenuInicial{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.buttonMenuInicial p {
+    margin-left: 40px;
+    color: #515151;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.footerMenuInicial {
+    border: 1px solid #C6C6C6;
+    border-radius: 13px 13px 0px 0px;
+    margin-top: 32px;
+}
+
+.footerMenuInicial p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #9B9B9B;
+    margin: 20px 40px;
+    
+}

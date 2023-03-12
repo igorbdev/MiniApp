@@ -1,0 +1,16 @@
+.containerResults {
+  margin-top: 15px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.resultCards {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  flex-wrap: wrap;
+  z-index: 1;
+}

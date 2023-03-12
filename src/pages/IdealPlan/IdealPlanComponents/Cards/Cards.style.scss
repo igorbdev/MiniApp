@@ -1,0 +1,40 @@
+.Row1 {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-bottom: 25px;
+}
+
+.SquadIdeal_active,
+.SquadIdeal {
+  width: 135px;
+  height: 140px;
+  background: #F1F1F1;
+  border-radius: 13px;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+
+.SquadIdeal_active {
+  border: 1px solid #FF8A00;
+}
+
+.circle {
+  width: 60px;
+  height: 60px;
+  background: #FFFFFF;
+  opacity: 0.6;
+  border-radius: 73px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+
+.circle__text {
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  color: #515151;
+}
+

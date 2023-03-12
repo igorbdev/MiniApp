@@ -1,0 +1,154 @@
+.CircleHome {
+    display: flex;
+    margin: 0 40px 32px 40px;
+    cursor: grab;
+}
+
+.circlesHome {
+    width: 75px;
+    height: 75px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.circleStar {
+    margin-right: 30px;
+    width: 75px;
+    height: 75px;
+    transform: rotate(-90deg);
+    border-radius: 50px;
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #FFF5A9 -137.33%, #FBE53B -66.26%, #FF4F01 166%);
+    transform: rotate(-90deg);
+}
+
+.circleStar img {
+    transform: rotate(90deg);
+}
+
+.circleText {
+    text-align: center;
+    margin: 10px 0;
+    width: 90px;
+    font-size: 16px;
+}
+
+.circlePlans {
+    margin-right: 30px;
+    width: 75px;
+    height: 75px;
+    transform: rotate(-90deg);
+    border-radius: 50px;
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90.18deg, #FBE53B -72.91%, #FF4F01 30.62%, #FF14B3 131.24%);
+}
+
+.circlePlans img {
+    transform: rotate(90deg);
+}
+
+.circleCheck {
+    margin-right: 30px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(89.87deg, #FF4F01 -157.57%, #FF4F01 -77.63%, #FF14B3 93.57%);
+}
+
+.circleThrow {
+    margin-right: 30px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #FF2F63 -137.33%, #FF1E96 -66.26%, #E210C5 166%);
+}
+
+.circleAssemblies {
+    margin-right: 30px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90.18deg, #E711C2 -72.91%, #C60CD5 30.62%, #A606E9 131.24%);
+}
+
+.circleContemplation {
+    margin-right: 30px;
+    width: 75px;
+    height: 75px;
+    margin-left: 5px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(91.03deg, #A406EA -41.57%, #8902FA -17.36%, #8301FE 86.84%, #4954FF 153.57%);
+}
+
+.circleDebit {
+    margin-right: 30px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #6824FF -33.33%, #445BFF -8.39%, #0FACFF 124.17%);
+}
+
+.circleProfile {
+    margin-right: 30px;
+    margin-left: 5px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #2F7AFF -54%, #10AAFF 30.25%, #03C7E7 117.33%);
+}
+
+.circleExtract {
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #01C1FF -158%, #10E177 23.16%, #17F036 334.67%);
+}
+
+.circleAntecipate {
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #0AD6A9 -71.33%, #0EDC8C -35.07%, #17F036 94.67%);
+}
+
+@media (min-width: 1000px) {
+    .CircleHome {
+        justify-content: center;
+    }
+}

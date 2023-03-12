@@ -1,0 +1,60 @@
+.ContainerCard {
+    width: 215px;
+    border: 0.8px solid #C6C6C6;
+    border-radius: 13px; 
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    position: relative;
+    pointer-events: none;
+}
+
+.ContainerCardType {
+    position: absolute;
+    pointer-events: none;
+}
+
+.imageCard {
+    border-radius: 13px;
+    pointer-events: none;
+}
+
+.containerCardInfos {
+    border-radius: 13px;
+    margin: -40px 0 0 0;
+    background: #fff;
+    pointer-events: none;
+}
+
+.TitleCardInfos {
+    color: #515151;
+    font-weight: 700;
+    font-size: 16px;
+    margin: 20px 0 0 0;
+    text-align: center;
+    pointer-events: none;
+}
+
+.containerCardInfosBottom {
+    margin: 0 0 0 20px;
+    display: flex;
+    align-items: center;
+    pointer-events: none;
+}
+
+.InfosCardInfos {
+    color: #515151;
+    font-weight: 400;
+    font-size: 10px;
+    margin: 0 0 0 5px;
+    pointer-events: none;
+}
+
+.FooterCardInfos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    pointer-events: none;
+}

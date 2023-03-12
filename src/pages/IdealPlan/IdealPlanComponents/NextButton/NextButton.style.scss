@@ -1,0 +1,37 @@
+.bottom {
+  position: absolute;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  bottom: 0;
+  margin-bottom: 45px;
+
+  @media (max-width: 768px) {
+    width: 300px;
+  }
+
+  .proximoButtom,
+  .proximoButtom__active {
+    width: 100%;
+    padding: 16px;
+    border: none;
+    color: #fff;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    border-radius: 32px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .proximoButtom {
+    background: #C6C6C6;
+  }
+
+  .proximoButtom__active {
+    background: #0086FF;
+  }
+}

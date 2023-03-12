@@ -1,0 +1,56 @@
+.ContainerVideo {
+    background: #D24A00;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 13px;
+    width: 69px;
+    height: 14px;
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    z-index: 20;
+}
+
+.ContainerVideo p {
+    font-weight: 400;
+    font-size: 12px;
+    color: #fff;
+}
+
+.ContainerPodcast {
+    background: #48006D;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 13px;
+    width: 69px;
+    height: 14px;
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    z-index: 20;
+}
+
+.ContainerPodcast p {
+    font-weight: 400;
+    font-size: 12px;
+    color: #fff;
+}
+
+.ContainerReader {
+    background: #002669;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 13px;
+    width: 69px;
+    height: 14px;
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    z-index: 20;
+}
+
+.ContainerReader p {
+    font-weight: 400;
+    font-size: 12px;
+    color: #fff;
+}

@@ -1,0 +1,137 @@
+.Home {
+    width: 100%;
+    margin: 0;
+}
+
+.containerHello {
+    margin: 32px 40px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #515151;
+}
+
+.containerHello span {
+    font-weight: bold;
+}
+
+.simulate {
+    margin: 32px 40px;
+    background: #0086FF;
+    border-radius: 40px;
+    padding: 11px 0;
+}
+
+.simulateTitle {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 0;
+    line-height: 18px;
+    margin: 0 0 0 30px
+
+}
+
+.simulateText {
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+    line-height: 26px;
+    margin: 0 0 0 30px
+}
+
+.slideConsortium {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+}
+
+.mainPlans {
+    margin: 0;
+    margin-top: 60px;
+    height: 450px;
+    background: linear-gradient(270deg, #FFC112 -48.85%, #FF8A00 110.92%);
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+
+.mainPlans h2 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mainPlansTitle {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardsMaisPlans {
+    display: flex;
+}
+
+.cardsMais {
+    width: 215px;
+    height: 323px;
+    background-color: #fff;
+    margin-left: 20px;
+    border-radius: 13px;
+}
+
+.TitleRight {
+    color: #fff;
+    margin-right: 20px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.Trails {
+    background: #FFFFFF;
+    width: 100%;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    height: 1000px;
+    margin-top: -30px;
+    padding-top: 24px;
+}
+
+.titleTrails {
+    color: #515151;
+    font-weight: 700;
+    font-size: 22px;
+    margin: 24px 40px;
+
+}
+
+.titleContainerCars {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 40px;
+}
+
+.titleCarsLeft {
+    font-weight: 700;
+    font-size: 18px;
+    color: #515151;
+}
+
+.titleCarsRight {
+    font-size: 14px;
+    font-weight: 700;
+    color: #002669;
+}
+
+
+.CarsContainer {
+    display: flex;
+    margin: 0 40px 32px 40px;
+    cursor: grab;
+    align-items: center;
+}
+
+
+
+.ContainerCircleHome {
+   margin-bottom: 62px;
+}

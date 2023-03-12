@@ -1,0 +1,106 @@
+.carousel {
+    overflow: hidden;
+    width: 100%;
+    margin: 0;
+}
+
+.CardsPlans {
+    display: flex;
+    margin-left: 10px;
+}
+
+.cardPlan {
+    width: 215px;
+    height: 323px;
+    background-color: #fff;
+    border-radius: 13px;
+    padding: 10px;
+    position: relative;
+    margin-right: 24px;
+}
+
+.tagCard {
+    color: #fff;
+    font-weight: 400;
+    background: linear-gradient(90deg, #0060B9 -10.34%, #002669 111.49%);
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    width: 60px;
+    height: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+
+.tagCard p {
+    font-size: 12px;
+}
+
+.containerInfos {
+    margin: 0;
+}
+
+.containerInfos {
+    margin: 0;
+    padding: 0;
+}
+
+.cardValue {
+    font-weight: 700;
+    font-size: 16px;
+    color: #0086FF;
+    margin: 0px 0px 0px 10px;
+}
+
+.containerInfosLeft {
+    font-weight: 400;
+    font-size: 14px;
+    color: #515151;
+    margin: 0px 0px 0px 10px;
+}
+
+.containerInfosRight {
+    font-weight: 700;
+    font-size: 16px;
+    color: #0086FF; 
+}
+
+.containerInfosBottom {
+    margin: 10px 0px 0px 0px;
+}
+
+.InfosLeftBottom {
+    margin: 0px;
+    font-weight: 400;
+    font-size: 12px;
+    color: #515151;
+    margin-left: 10px;
+}
+
+.InfosLeftBottom span{
+font-weight: bold;
+}
+
+.ButtonSelect {
+    background: #0086FF;
+    border-radius: 32px;
+    width: 131px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px auto
+}
+
+.ButtonSelect p {
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+@media (min-width: 1000px) {
+    .CardsPlans {
+        justify-content: center;
+    }
+}

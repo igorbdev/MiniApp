@@ -1,0 +1,26 @@
+.description {
+  margin-bottom: 20px;
+}
+
+.inputBox {
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+
+  @media (max-width: 768px) {
+    width: 300px;
+  }
+
+  &__select {
+    width: 100%;
+    outline: 0;
+    border: 0;
+    font-size: 16px;
+    border-bottom: 2px solid #9B9B9B;
+    padding: 10px 0;
+    background: transparent;
+    transition: 0.3s ease;
+  }
+}
