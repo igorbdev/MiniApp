@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MiniApp/static/css/main.29258c37.css",
-    "main.js": "/MiniApp/static/js/main.cde273ca.js",
+    "main.js": "/MiniApp/static/js/main.26774aac.js",
     "static/js/787.bbe90126.chunk.js": "/MiniApp/static/js/787.bbe90126.chunk.js",
     "static/media/svgHome.svg": "/MiniApp/static/media/svgHome.403baadb72ed9d908facfa2759bf960d.svg",
     "static/media/img23.png": "/MiniApp/static/media/img23.91c23e9bec8b5d7fedad.png",
@@ -67,11 +67,11 @@
     "static/media/icon_menu.svg": "/MiniApp/static/media/icon_menu.57e1137ec2ef12416983cb897afa6108.svg",
     "static/media/icon_search.svg": "/MiniApp/static/media/icon_search.93170aeea86d57338c5de0fdd4c1e1c0.svg",
     "main.29258c37.css.map": "/MiniApp/static/css/main.29258c37.css.map",
-    "main.cde273ca.js.map": "/MiniApp/static/js/main.cde273ca.js.map",
+    "main.26774aac.js.map": "/MiniApp/static/js/main.26774aac.js.map",
     "787.bbe90126.chunk.js.map": "/MiniApp/static/js/787.bbe90126.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29258c37.css",
-    "static/js/main.cde273ca.js"
+    "static/js/main.26774aac.js"
   ]
 }
