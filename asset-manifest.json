@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MiniApp/static/css/main.140b49a0.css",
+    "main.css": "/MiniApp/static/css/main.d5739c22.css",
     "main.js": "/MiniApp/static/js/main.51bcaaba.js",
     "static/js/787.bbe90126.chunk.js": "/MiniApp/static/js/787.bbe90126.chunk.js",
     "static/media/svgHome.svg": "/MiniApp/static/media/svgHome.403baadb72ed9d908facfa2759bf960d.svg",
@@ -66,12 +66,12 @@
     "static/media/svgPlane.svg": "/MiniApp/static/media/svgPlane.77f43ec2dc77aa24a7faf0fc335fe131.svg",
     "static/media/icon_menu.svg": "/MiniApp/static/media/icon_menu.57e1137ec2ef12416983cb897afa6108.svg",
     "static/media/icon_search.svg": "/MiniApp/static/media/icon_search.93170aeea86d57338c5de0fdd4c1e1c0.svg",
-    "main.140b49a0.css.map": "/MiniApp/static/css/main.140b49a0.css.map",
+    "main.d5739c22.css.map": "/MiniApp/static/css/main.d5739c22.css.map",
     "main.51bcaaba.js.map": "/MiniApp/static/js/main.51bcaaba.js.map",
     "787.bbe90126.chunk.js.map": "/MiniApp/static/js/787.bbe90126.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.140b49a0.css",
+    "static/css/main.d5739c22.css",
     "static/js/main.51bcaaba.js"
   ]
 }
